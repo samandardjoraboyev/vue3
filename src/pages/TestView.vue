@@ -1,7 +1,7 @@
 <template>
   <main>
     <div class="about">
-      <h1>This is an test page</h1>
+      <h1>This is an test page test</h1>
 
     </div>
     <div class="h-full">
@@ -13,16 +13,16 @@
 
 <script>
 
-export default {
-  data() {
-    return {
-      dataArr: [
-        {
-          id: 1,
-          title: 'card 1',
-          h: 'Nature',
-          text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, repellat',
-        },
-
+// export default {
+//   data() {
+//     return {
+//       dataArr: [
+//         {
+//           id: 1,
+//           title: 'card 1',
+//           h: 'Nature',
+//           text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, repellat',
+//         },
+//cx
 
 </script>
