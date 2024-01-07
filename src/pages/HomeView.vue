@@ -4,8 +4,10 @@
     <main >
       <!--      card component start-->
       <CardMain class="flex justify-center mt-5 flex-wrap" :cardData="cardData"/>
-
+<!--      test-->
+      <br>
       <Counter />
+
 
       <!--      card component end -->
 
